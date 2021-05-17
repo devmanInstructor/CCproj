@@ -1,7 +1,6 @@
-*.env
-*.JSON
-*.json
-/.idea
+.env
+data.JSON
+.idea
 
 
 # Byte-compiled / optimized / DLL files
